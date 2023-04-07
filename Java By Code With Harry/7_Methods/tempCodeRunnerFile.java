@@ -1,0 +1,1 @@
+n(Type(Integer.parseInt(a)));
