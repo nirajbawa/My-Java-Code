@@ -26,7 +26,7 @@ public class p_5_Vector_by_me {
         System.out.println(obj);
         // obj.removeAllElements();
         System.out.println(obj);
-        System.out.println(obj.capacity());
+        System.out.println("capacity : "+obj.capacity());
         System.out.println(obj.size());
         System.out.println(obj.isEmpty());
         System.out.println(obj.firstElement());

@@ -28,9 +28,6 @@ interface MyWifi{
     void connectToNetwork(String network);
 }
 
-
-
-
 class smartPhone extends cellPhone implements Mycamera, MyWifi{
     smartPhone()
     {
