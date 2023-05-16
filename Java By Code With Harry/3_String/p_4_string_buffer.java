@@ -21,10 +21,6 @@ public class p_4_string_buffer {
         str.replace(0, 2, "niraj");
         System.out.println(str);
         System.out.println(str.reverse());
-     
-
-
-
 
     }
 }

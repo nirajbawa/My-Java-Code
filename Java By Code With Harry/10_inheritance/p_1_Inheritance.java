@@ -15,6 +15,7 @@ class base{
 
 
 class derived extends base{
+
     public derived()
     {
         System.out.println("base derived");

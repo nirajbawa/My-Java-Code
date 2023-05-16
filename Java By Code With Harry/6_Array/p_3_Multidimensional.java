@@ -40,5 +40,21 @@ class p_3_Multidimensional {
             System.out.println();
         }
 
+        int d_3_arr [][][] = {{{1,2,3}, {4,5,6}},{{7,8,9}, {10,11,12}}};
+        
+        for(int i = 0; i <d_3_arr.length; i++)
+        {
+            for(int j = 0; j<d_3_arr[i].length; j++)
+            {
+                for(int k = 0; k< d_3_arr[i][j].length; k++)
+                {
+                  
+                    System.out.print(d_3_arr[i][j][k]+" ");
+                }
+                System.out.println();
+            }
+            System.out.println();
+        }
+
     }
 }

@@ -30,7 +30,7 @@ public class p_5_Vector_by_me {
         System.out.println(obj.size());
         System.out.println(obj.isEmpty());
         System.out.println(obj.firstElement());
-
+        System.out.println(obj.lastElement());
         System.out.println(obj.indexOf(10));
         System.out.println();
         obj.setSize(20);

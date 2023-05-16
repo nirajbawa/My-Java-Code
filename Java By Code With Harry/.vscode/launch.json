@@ -1,0 +1,504 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_1",
+            "request": "launch",
+            "mainClass": "Exercise_1",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_2",
+            "request": "launch",
+            "mainClass": "Exercise_2",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_3",
+            "request": "launch",
+            "mainClass": "Exercise_3",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_5",
+            "request": "launch",
+            "mainClass": "Exercise_5",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_6",
+            "request": "launch",
+            "mainClass": "Exercise_6",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "Exercise__4",
+            "request": "launch",
+            "mainClass": "Exercise__4",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_10_Practice_set",
+            "request": "launch",
+            "mainClass": "p_10_Practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_Access_modifiers",
+            "request": "launch",
+            "mainClass": "p_1_Access_modifiers",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_ArrayList",
+            "request": "launch",
+            "mainClass": "p_1_ArrayList",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_If_else",
+            "request": "launch",
+            "mainClass": "p_1_If_else",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_Inheritance",
+            "request": "launch",
+            "mainClass": "p_1_Inheritance",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_Operators",
+            "request": "launch",
+            "mainClass": "p_1_Operators",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_Try_catch",
+            "request": "launch",
+            "mainClass": "p_1_Try_catch",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_While_loop",
+            "request": "launch",
+            "mainClass": "p_1_While_loop",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_abstract_class",
+            "request": "launch",
+            "mainClass": "p_1_abstract_class",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_arrays",
+            "request": "launch",
+            "mainClass": "p_1_arrays",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_class",
+            "request": "launch",
+            "mainClass": "p_1_class",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_classDocsTag",
+            "request": "launch",
+            "mainClass": "p_1_classDocsTag",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_first_program",
+            "request": "launch",
+            "mainClass": "p_1_first_program",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_method",
+            "request": "launch",
+            "mainClass": "p_1_method",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_strings",
+            "request": "launch",
+            "mainClass": "p_1_strings",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_1_threading_using_thread_class",
+            "request": "launch",
+            "mainClass": "p_1_threading_using_thread_class",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_Annotation",
+            "request": "launch",
+            "mainClass": "p_2_Annotation",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_For_Each_Loop",
+            "request": "launch",
+            "mainClass": "p_2_For_Each_Loop",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_LinkedList",
+            "request": "launch",
+            "mainClass": "p_2_LinkedList",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_Literals_in_Java",
+            "request": "launch",
+            "mainClass": "p_2_Literals_in_Java",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_constructors",
+            "request": "launch",
+            "mainClass": "p_2_constructors",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_data_type_incAndDec",
+            "request": "launch",
+            "mainClass": "p_2_data_type_incAndDec",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_do_while_loop",
+            "request": "launch",
+            "mainClass": "p_2_do_while_loop",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_handling_specific_exception",
+            "request": "launch",
+            "mainClass": "p_2_handling_specific_exception",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_interfaces",
+            "request": "launch",
+            "mainClass": "p_2_interfaces",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_method_overloading",
+            "request": "launch",
+            "mainClass": "p_2_method_overloading",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_methods",
+            "request": "launch",
+            "mainClass": "p_2_methods",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_2_switch_case",
+            "request": "launch",
+            "mainClass": "p_2_switch_case",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Annoymus_and_lambda",
+            "request": "launch",
+            "mainClass": "p_3_Annoymus_and_lambda",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_ArrayDeque",
+            "request": "launch",
+            "mainClass": "p_3_ArrayDeque",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Getting_User_Input_in",
+            "request": "launch",
+            "mainClass": "p_3_Getting_User_Input_in",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Java_nterfaces_Example_Default_Methods",
+            "request": "launch",
+            "mainClass": "p_3_Java_nterfaces_Example_Default_Methods",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Multidimensional",
+            "request": "launch",
+            "mainClass": "p_3_Multidimensional",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Nested_try_catch",
+            "request": "launch",
+            "mainClass": "p_3_Nested_try_catch",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_Practice_set",
+            "request": "launch",
+            "mainClass": "p_3_Practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_VarArgs",
+            "request": "launch",
+            "mainClass": "p_3_VarArgs",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_for_loop",
+            "request": "launch",
+            "mainClass": "p_3_for_loop",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_3_practice_set",
+            "request": "launch",
+            "mainClass": "p_3_practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_Generics",
+            "request": "launch",
+            "mainClass": "p_4_Generics",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_HashSet",
+            "request": "launch",
+            "mainClass": "p_4_HashSet",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_Method_Overriding",
+            "request": "launch",
+            "mainClass": "p_4_Method_Overriding",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_Practice_set",
+            "request": "launch",
+            "mainClass": "p_4_Practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_Recursion",
+            "request": "launch",
+            "mainClass": "p_4_Recursion",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_break_and_continue",
+            "request": "launch",
+            "mainClass": "p_4_break_and_continue",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_exception_class",
+            "request": "launch",
+            "mainClass": "p_4_exception_class",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_practice_set",
+            "request": "launch",
+            "mainClass": "p_4_practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_4_string_buffer",
+            "request": "launch",
+            "mainClass": "p_4_string_buffer",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_BufferedReader",
+            "request": "launch",
+            "mainClass": "p_5_BufferedReader",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_File_Handling",
+            "request": "launch",
+            "mainClass": "p_5_File_Handling",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_Practice_set",
+            "request": "launch",
+            "mainClass": "p_5_Practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_Vector_by_me",
+            "request": "launch",
+            "mainClass": "p_5_Vector_by_me",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_date_time",
+            "request": "launch",
+            "mainClass": "p_5_date_time",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_practice_set",
+            "request": "launch",
+            "mainClass": "p_5_practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_5_throws",
+            "request": "launch",
+            "mainClass": "p_5_throws",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_6_calendar",
+            "request": "launch",
+            "mainClass": "p_6_calendar",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_6_command_line_arguments",
+            "request": "launch",
+            "mainClass": "p_6_command_line_arguments",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_6_enumerated",
+            "request": "launch",
+            "mainClass": "p_6_enumerated",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_6_finally_block",
+            "request": "launch",
+            "mainClass": "p_6_finally_block",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_6_wrpper_classes",
+            "request": "launch",
+            "mainClass": "p_6_wrpper_classes",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_7_Console_Class",
+            "request": "launch",
+            "mainClass": "p_7_Console_Class",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_7_gregorian_calendar",
+            "request": "launch",
+            "mainClass": "p_7_gregorian_calendar",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_7_practice_set",
+            "request": "launch",
+            "mainClass": "p_7_practice_set",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_8_time",
+            "request": "launch",
+            "mainClass": "p_8_time",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        },
+        {
+            "type": "java",
+            "name": "p_9_dateTimeFormatter",
+            "request": "launch",
+            "mainClass": "p_9_dateTimeFormatter",
+            "projectName": "Java By Code With Harry_57aa12b1"
+        }
+    ]
+}

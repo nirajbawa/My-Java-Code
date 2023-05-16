@@ -26,6 +26,7 @@ public class p_5_File_Handling {
             {
                 System.out.println(e);
             }
+            
             try{
                 Scanner sc = new Scanner(myFile);
                 while(sc.hasNextLine())

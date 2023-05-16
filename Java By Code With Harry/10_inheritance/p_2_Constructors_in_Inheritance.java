@@ -42,6 +42,8 @@ public class p_2_Constructors_in_Inheritance {
     {
         Derived obj = new Derived(1,2,5);
         System.out.println();
+        Derived2 obj3 = new Derived2();
+        System.out.println();
         Derived2 obj2 = new Derived2(20, 30, 40);
     }
 }

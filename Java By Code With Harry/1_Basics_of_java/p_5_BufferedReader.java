@@ -9,7 +9,12 @@ public class p_5_BufferedReader {
         System.out.println("enter number : ");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int n = Integer.parseInt(br.readLine());
-        System.out.println(n);
+
+
+        // int n = Integer.parseInt(br.readLine());
+        // System.out.println(n);
+
+        // String str = br.readLine();
+        // System.out.println(str);
     }
 }

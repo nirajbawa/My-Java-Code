@@ -22,8 +22,7 @@ class passenger{
     passenger()
     {
         System.out.println("Passenger Seating....");
-    }
-    
+    }  
 }
 
 class car extends passenger implements engine, driver{
