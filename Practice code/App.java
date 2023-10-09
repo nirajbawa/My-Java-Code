@@ -1,4 +1,5 @@
 import com.web.*;
+import com.back.*;
 
 public class App extends Home{
     public static void main(String args[]){
@@ -13,6 +14,9 @@ public class App extends Home{
         App.getHome();
         App.getAbout();
         App.postHome();
+
+        back b = new back();
+        b.getBack();
         // App.postDelete();
         
     }

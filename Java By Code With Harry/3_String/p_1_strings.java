@@ -17,7 +17,7 @@ class p_1_strings{
         System.out.print("name : ");
         System.out.print(name+"\n");
 
-        System.out.printf("name : %s \n", name);
+        System.out.printf("\'name\' : %d \n", name);
         System.out.format("name : %s", name);
         
 

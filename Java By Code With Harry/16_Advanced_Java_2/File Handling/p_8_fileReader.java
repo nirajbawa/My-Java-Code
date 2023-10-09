@@ -4,9 +4,10 @@ import java.io.IOException;
 public class p_8_fileReader {
     public static void main(String args[])
     {
+        FileReader fr = null;
         try{
             // Reading file using FileReader without BufferedReader and scanner only character
-            FileReader fr = new FileReader("text.txt");
+            fr = new FileReader("text.txt");
              int i;
             // i = fr.read();
             String str = "";
@@ -36,6 +37,10 @@ public class p_8_fileReader {
         catch(IOException e)
         {
             System.out.println(e);
+        }
+        finally
+        {
+            fr.close();
         }
     }
 }

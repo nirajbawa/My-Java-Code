@@ -4,9 +4,11 @@ class goodMorning extends Thread{
     @Override
     public void run()
     {
+      
         int i = 1;
         while(i<100)
         {
+            System.out.println("state of t1 : " +this.getState());
             System.out.println("good morning....");
             i++;
         }

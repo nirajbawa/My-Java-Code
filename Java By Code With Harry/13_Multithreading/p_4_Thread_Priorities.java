@@ -29,9 +29,11 @@ public class p_4_Thread_Priorities {
 
         f5.setPriority(Thread.MAX_PRIORITY);
         f1.setPriority(Thread.MIN_PRIORITY);
-        f2.setPriority(Thread.MIN_PRIORITY);
+        f2.setPriority(Thread.NORM_PRIORITY);
         f3.setPriority(Thread.MIN_PRIORITY);
         f4.setPriority(Thread.MIN_PRIORITY);
+
+        System.out.println(f5.getPriority());
         
         f1.start();
         f2.start();

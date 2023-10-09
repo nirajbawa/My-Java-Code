@@ -63,15 +63,15 @@ class p_4_Practice_set {
         {
             for(int j = 0; j<matrix1.length; j++)
             {
-                matrix3[i][j] += matrix3[i][j];
+                matrix3[i][j] = matrix1[i][j]+matrix2[i][j];
             }
         }
 
         System.out.println("The addition of two matrix is : ");
 
-        for(int i = 0; i<matrix2.length; i++)
+        for(int i = 0; i<matrix3.length; i++)
         {
-            for(int j = 0; j<=matrix2.length; j++)
+            for(int j = 0; j<=matrix3.length; j++)
             {
                 System.out.printf("matrix[%d][%d] = %d\n", i ,j, matrix3[i][j]);
 

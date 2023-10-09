@@ -1,7 +1,7 @@
 package com.back;
 
 public class back {
-    void getBack()
+    public void getBack()
     {
         System.out.println("back");
     }

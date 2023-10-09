@@ -1,7 +1,10 @@
 
+import java.util.*;
+
 class employee{
     int salary;
     String name;
+    Scanner sc = new Scanner(System.in);
     public int getSalary()
     {
         return salary;

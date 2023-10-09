@@ -1,1 +1,2 @@
-matrix3
+
+    for(fruit i:fruit.values())  

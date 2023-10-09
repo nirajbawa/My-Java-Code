@@ -15,7 +15,7 @@ public class p_6_wrpper_classes {
         int c = 10;
         Integer i = new Integer(c);
         Integer k = new Integer(30);
-        System.out.println(i+k);
+        System.out.println(i+k); 
 
         Float f = new Float(20.5f);
         System.out.println();

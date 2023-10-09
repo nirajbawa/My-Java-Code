@@ -10,8 +10,7 @@ public class p_10_fileWriter_using_bufferedWriter {
             
             bw.write("my name is niraj\n I'm full stack developer 🧑‍💻🧑‍💻🧑‍💻🧑‍💻");
             bw.close();
-
-
+            fw.close();
         }
         catch(IOException e)
         {

@@ -9,4 +9,5 @@ public class p_6_enumerated {
     for(fruit i:fruit.values())  
     System.out.println(i);
     }
+
 }

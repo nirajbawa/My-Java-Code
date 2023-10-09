@@ -13,5 +13,9 @@ public class Home extends about{
         // postDelete();
         System.out.println("post Home");
     }
+    public static void main(String args[])
+    {
+        System.out.println("hello");
+    }
     
 }

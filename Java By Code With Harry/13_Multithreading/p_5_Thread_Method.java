@@ -11,7 +11,7 @@ class Fetchdata extends Thread{
         {
             System.out.println(this.getName());
             try{
-                Thread.sleep(5000);
+                Thread.sleep(50);
             }
             catch(Exception e)
             {

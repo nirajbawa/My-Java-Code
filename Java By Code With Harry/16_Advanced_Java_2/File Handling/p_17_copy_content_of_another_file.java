@@ -20,9 +20,9 @@ public class p_17_copy_content_of_another_file {
 
             FileWriter fw = new FileWriter(c, false);
             BufferedWriter bw = new BufferedWriter(fw);
-            fw.write(str);
-            fw.close();
+            bw.write(str);
             bw.close();
+            fw.close();
 
         } catch (IOException e) {
             System.out.println(e);

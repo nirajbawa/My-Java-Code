@@ -25,6 +25,7 @@ public class p_5_Vector_by_me {
         obj.removeElementAt(2);
         System.out.println(obj);
         // obj.removeAllElements();
+    
         System.out.println(obj);
         System.out.println("capacity : "+obj.capacity());
         System.out.println(obj.size());
@@ -35,7 +36,6 @@ public class p_5_Vector_by_me {
         System.out.println();
         obj.setSize(20);
       
-
 
         System.out.println(obj);
         

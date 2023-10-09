@@ -6,6 +6,7 @@ public class p_2_Literals_in_Java {
         float f1 = 5.6f;
         double d1 = 4.66d;
         boolean b = true;
+        System.out.println(b);
         String str ="niraj";
         System.out.println(str);
     }

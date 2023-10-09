@@ -16,12 +16,14 @@ public class p_19_copy_from_one_to_another_file_using_byte_stream {
                 dc++;
             }
 
+            fis.close();
+
             for (int i = 0; i < dc; i++) {
                 fos.write(data[i]);
             }
 
             fos.close();
-            fis.close();
+           
         } catch (IOException e) {
             System.out.println(e);
         }
